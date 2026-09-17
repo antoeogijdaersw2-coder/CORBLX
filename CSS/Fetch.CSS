@@ -9473,7 +9473,7 @@ div#navigation-menu {
 #navigation-container a.btn-logo,
 #navigation-menu a.btn-logo:visited,
 #navigation-container a.btn-logo:hover {
-	background: url(images/RevisedHeader/btn-rbx_logo.png) no-repeat top;
+	background: url('../images/RevisedHeader/btn-rbx_logo.png) no-repeat top;
 	display: inline-block;
 	width: 116px;
 	height: 35px;
